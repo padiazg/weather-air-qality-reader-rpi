@@ -23,3 +23,9 @@ In the meantime
 $ ssh pi@rpizerow1.local:/home/pi
 $ ./main >> airelibre.log  2>&1 &
 ```
+
+# Diagrams & sensor wirings
+WIP
+
+# Troubleshooting
+WIP
